@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: testCar2
-  host: testCar2.bluemix.net
+  host: testCar2
   disk_quota: 1024M
